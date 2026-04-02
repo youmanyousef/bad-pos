@@ -1,0 +1,21 @@
+<script>
+	function deviceType(id){
+		switch (id){
+			case 0:
+				return "Other";
+			case 1: 
+				return "Phone";
+			case 2: 
+				return "Tablet";
+			case 3: 
+				return "Computer";
+			default:
+				return "ERR-DT FUNC";
+		}
+	}
+</script>
+
+<p id="demo"></p>
+<script>
+	document.getElementById("demo").innerHTML = deviceType(0);
+</script>

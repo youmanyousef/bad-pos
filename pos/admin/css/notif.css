@@ -1,0 +1,14 @@
+body{
+	font-family: Verdana, sans-serif;
+}
+ul {
+	height: 48px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+td {
+	font-size: 12px;
+}

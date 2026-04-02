@@ -1,0 +1,16 @@
+
+
+[12:35:19] : Error trying to archive the customer and order.
+
+[12:37:56] : Error trying to archive the customer and order.
+
+[12:38:34] : Error trying to archive the customer and order.
+
+[12:45:20] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[12:46:27] : Added customer to main page, removed record from accepting client table. 
+Customer: joe, 3, IPHONE X GLASS.
+
+[12:46:36] : Error trying to archive the customer and order.
+
+[12:47:40] : Error trying to archive the customer and order.

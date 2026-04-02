@@ -1,0 +1,15 @@
+
+
+[06:17:53] : Updated fields for ID:'s order.
+
+[06:20:18] : Updated fields for ID:79's order.
+
+[06:29:08] : Denied order from Joseph Altareb
+
+[06:31:10] : Updated fields for ID:'s order.
+
+[06:31:28] : Updated fields for ID:'s order.
+
+[06:31:49] : Updated fields for ID:Joseph Altareb's order.
+
+[06:38:57] : Removed Joseph Altareb's order (reason: force), If this was a mistake, check in the Archive.

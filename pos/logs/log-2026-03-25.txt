@@ -1,0 +1,10 @@
+
+
+[11:24:39] : Added customer to main page, removed record from accepting client table. 
+Customer: john, 3, IMAC 2021 GEN. : USER:admin
+
+[11:25:17] : Updated fields for 's order. : USER:admin
+
+[11:26:11] : Updated fields for 's order. : USER:admin
+
+[11:26:13] : Removed john's order (reason: force), If this was a mistake, check in the Archive. : USER:admin

@@ -1,0 +1,35 @@
+<ul class="navbar">
+	<li><a id="first_link" href="admin.php"><img id="logo" src="../images/logo.png"></a></li>
+	<li><a id="link" href="clients.php">Add Clients</a></li>
+	<li><a id="link" href="archive.php">Archive</a></li>
+	<li><a id="link" href="settings.php">Settings</a></li>
+	
+	<li class="dropdown" >
+		<a id="link" href="javascript:void(0)" >Notifications</a>
+		<div class="dropdown-content">
+			<iframe src="notifications.php"></iframe>
+		</div>
+	</li>
+	
+	<li class="dropdown" id="logout" href="javascript:void(0)">
+		<script>
+			var usern = '';
+			var link_width;
+			$(document).ready(function() {
+				fetch("user.json")
+					.then(response => response.json())
+					.then(data => {
+						usern = data.user
+						console.log(usern)
+						$('#greet').html('<a id="link">Hello '+usern+'</a>')
+						link_width = $('#logout').width(); //come back to this
+					});
+				$('#logout_div').width(link_width);
+			});
+		</script>
+		<span id="greet"><a id="link">Hello </a></span>
+		<div class="dropdown-logout" id="logout_div">
+			<a href="logout.php">Log Out</a>
+		</div>
+	</li>
+</ul>

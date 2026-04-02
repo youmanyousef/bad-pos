@@ -1,0 +1,9 @@
+
+
+[01:59:47] : Error trying to archive the customer and order.
+
+[01:59:54] : Error trying to archive the customer and order.
+
+[02:01:54] : Removed joe's order (reason: force), If this was a mistake, check in the Archive.
+
+[02:02:01] : Removed 5's order (reason: force), If this was a mistake, check in the Archive.

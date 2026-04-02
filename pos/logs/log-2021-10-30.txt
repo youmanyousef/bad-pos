@@ -1,0 +1,121 @@
+
+
+[12:00:24] : Added to the service Phone Glass Repairs.
+
+[12:00:57] : Added to the service Phone Glass Repairs.
+
+[12:01:12] : Added to the service Phone Glass Repairs.
+
+[12:01:15] : Added to the service Phone Glass Repairs.
+
+[12:01:20] : Added to the service Phone Glass Repairs.
+
+[12:01:30] : Added to the service Phone Glass Repairs.
+
+[12:07:37] : Added to the service Phone Glass Repairs.
+
+[12:07:38] : Added to the service Phone Glass Repairs.
+
+[12:07:47] : 
+
+[12:09:34] : 
+
+[12:10:44] : 
+
+[12:11:24] : 
+
+[12:11:47] : 
+
+[12:12:08] : 
+
+[12:12:24] : 
+
+[12:12:30] : 
+
+[12:12:38] : 
+
+[12:13:20] : 
+
+[12:13:31] : 
+
+[12:14:10] : Added to the service Phone Glass Repairs.
+
+[12:14:13] : Added to the service Phone Glass Repairs.
+
+[12:14:23] : Added to the service Phone Glass Repairs.
+
+[12:14:31] : Added to the service Phone Glass Repairs.
+
+[12:14:40] : 
+
+[12:15:56] : Added group name to the service tray.
+
+[12:16:05] : 
+
+[12:18:03] : Added to the service Phone Glass Repairs.
+
+[12:18:20] : Added group name to the service tray.
+
+[12:18:31] : Added to the service group name.
+
+[12:25:32] : Added to the service group name.
+
+[12:25:34] : Added to the service group name.
+
+[12:26:20] : Added to the service group name.
+
+[12:26:46] : Added to the service group name.
+
+[12:26:58] : Added to the service group name.
+
+[12:32:36] : Added to the service group name.
+
+[12:32:54] : Added to the service group name.
+
+[12:33:02] : 
+
+[12:33:08] : Added group name to the service tray.
+
+[12:33:11] : 
+
+[12:33:15] : Added group name to the service tray.
+
+[12:33:24] : Added to the service group name.
+
+[12:33:31] : 
+
+[12:34:35] : 
+
+[12:34:40] : Added group name to the service tray.
+
+[12:34:46] : Added to the service group name.
+
+[12:45:09] : An error has occured while adding service for: group name.
+
+[12:53:58] : Added to the service iMac Repairs.
+
+[12:54:10] : Added group name to the service tray.
+
+[12:54:16] : Added to the service group name.
+
+[12:54:22] : An error has occured while adding service for: group name.
+
+[12:55:32] : Removed 55's order (reason: force), If this was a mistake, check in the Archive.
+
+[04:04:59] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[04:05:03] : Added customer to main page, removed record from accepting client table. 
+Customer: Z, 1, IPHONE X GLASS.
+
+[04:05:40] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[04:05:47] : Updated fields for Z's order.
+
+[04:06:01] : Updated fields for Z's order.
+
+[04:06:17] : Removed Z's order (reason: force), If this was a mistake, check in the Archive.
+
+[04:06:44] : Added to the service Phone Board Repairs.
+
+[10:24:59] : Added customer to main page, removed record from accepting client table. 
+Customer: Joseph Altareb, 3, TRASH CAN GEN.

@@ -1,0 +1,14 @@
+
+
+[10:16:45] : Removed Joseph Altareb's order (reason: force), If this was a mistake, check in the Archive.
+
+[11:03:42] : Updated fields for 's order.
+
+[11:04:21] : Added AirPod Repairs to the service tray.
+
+[11:04:50] : Added to the service AirPod Repairs.
+
+[11:05:06] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[11:05:47] : Added customer to main page, removed record from accepting client table. 
+Customer: Bread, 3, AIRPOD PRO GEN.

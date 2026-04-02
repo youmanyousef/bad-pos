@@ -1,0 +1,51 @@
+
+[05:13:35] : Action occured
+[05:14:55] : Action occured
+[05:15:07] : Action occured
+[05:15:28] : Action occured
+[05:22:47] : Removed a customer from the main page, Reason: Finished Job
+
+		Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+[05:23:06] : Removed a customer from the main page, Reason: Finished Job
+
+		Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+[05:23:30] : Removed a customer from the main page, Reason: Finished Job
+
+Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+[05:23:36] : Removed a customer from the main page, Reason: Finished Job
+Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+[06:08:10] : Removed a customer from the main page, Reason: Finished Job
+Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+[06:10:15] : Removed a customer from the main page, Reason: Finished Job
+Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+
+[06:10:34] : Removed a customer from the main page, Reason: Finished Job
+Customer: 145, John Doe, 510xxxxxxx, mail@ex.com, laptop, broken glass.
+
+[06:20:21] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[06:20:59] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[06:25:30] : Error trying to accept client into main page. If there are blank inputs, please fill them.
+
+[06:29:24] : Added customer  to main page, removed record from accepting client table.
+
+[06:30:56] : 0Joseph Altareb, 9, 510xxxxxxx, 0, IPHONE XR GLASS.
+
+[06:31:04] : Added customer  to main page, removed record from accepting client table.Customer: Joseph Altareb, 9, 510xxxxxxx, 0, IPHONE XR GLASS.
+
+[06:31:16] : Added customer  to main page, removed record from accepting client table. 
+Customer: Joseph Altareb, 9, 510xxxxxxx, 0, IPHONE XR GLASS.
+
+[07:05:03] : Updated 4 fields for 's order.
+
+[07:06:44] : Updated 3 fields for 's order.
+
+[07:10:44] : Updated 0 fields for 's order.
+
+[07:13:26] : Updated fields for 17's order.
+
+[07:15:26] : Added customer  to main page, removed record from accepting client table. 
+Customer: Joseph Altareb, youmanyousef@gmail.com, 510xxxxxxx, 3, IPHONE XR GLASS.
+
+[07:16:02] : Updated fields for ID:79's order.

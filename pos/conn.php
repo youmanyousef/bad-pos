@@ -1,0 +1,53 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+//ob_start();
+require __DIR__ . '/month.php';
+$servername = "db";
+//$servername = "172.0.0.1";
+$username = "root";
+$password = "root";
+$db = "customers";
+$db_users = "users";
+$conn = new mysqli(
+                    $servername,
+                    $username, 
+                    $password, 
+                    $db
+                    );
+$conn_users = new mysqli(
+                         $servername, 
+                         $username, 
+                         $password, 
+                         $db_users
+                         );
+// Check connection
+if (!$conn) {
+	die("Main DB Connection failed: " . mysqli_connect_error());
+}
+if (!$conn_users) {
+	die("Users DB Connection failed: " . mysqli_connect_error());
+}
+// echo "Connection successful.";
+//some extra, psuedo-global vars
+date_default_timezone_set('America/Los_Angeles'); //get local time. orangecounty == la;;idc
+$time = (30*60); //time in seconds, edit settings.json file later.
+if (session_status() !== PHP_SESSION_ACTIVE) {
+    session_start();
+}
+
+function session_logout() {
+	session_destroy();
+	$json = array('user' => 'none');
+	$push_to_file = json_encode($json);// encode string
+	file_put_contents('user.json', $push_to_file);// push all of it back
+}
+
+function get_name($id, $conn, $table) {
+	$sql = "select * from $table where id=$id";
+	$result = $conn->query($sql);
+	while($row = $result->fetch_assoc() ){
+		return $row["name"];
+	}
+	return "N/A";
+}

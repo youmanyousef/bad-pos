@@ -1,0 +1,3 @@
+
+
+[08:55:15] : Error trying to accept client into main page. If there are blank inputs, please fill them.
